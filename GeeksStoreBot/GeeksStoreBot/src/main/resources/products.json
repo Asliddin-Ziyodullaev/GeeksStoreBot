@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "brandName": "Apple",
+    "type": "MOBILE",
+    "productName": "Iphone 13",
+    "productPrice": 1200000,
+    "comment": "16gb 256gb"
+  },
+  {
+    "id": 1,
+    "brandName": "Apple",
+    "type":"PC",
+    "productName": "MAc 13",
+    "productPrice": 1200000,
+    "comment": "16gb 256gb"
+  },
+  {
+    "id": 1,
+    "brandName": "Lg",
+    "type":"TV",
+    "productName": "4",
+    "productPrice": 1200000,
+    "comment": "20022"
+  }
+
+]
